@@ -1,6 +1,6 @@
 # optiim-selenium
 
-# Using Technology
+# Used Technology
 
 -> Selenium (3.4.0) : Selenium automates browsers.
 -> BrowserMob Proxy (2.1.1) : A free utility to help web developers watch and manipulate network traffic from their AJAX applications.
