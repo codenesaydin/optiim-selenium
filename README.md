@@ -1,17 +1,21 @@
 # optiim-selenium
 
-- Parameters
+# Parameters
 
 -Dbrowser.type=chrome
--Dtake.a.video=false
+-Dtake.a.video=true
 
 
---> Serial Test Execute 
+# --> Serial Test Execute 
 
-mvn clean install site -Dbrowser.type=chrome -Dtake.a.video=false -P "Serial"
+mvn clean install site -Dbrowser.type=chrome -Dtake.a.video=true -P "Serial"
 
 
---> Parallel Test Execute 
+# --> Parallel Test Execute 
 
-mvn clean install site -Dbrowser.type=chrome -Dtake.a.video=false -P "Parallel" -Dfork.count=2
+mvn clean install site -Dbrowser.type=chrome -Dtake.a.video=true -P "Parallel" -Dfork.count=2
+
+# --> Network Test Execute 
+
+mvn clean install site -Dbrowser.type=chrome -Dtake.a.video=true -P "Network"
 
