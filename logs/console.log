@@ -1,0 +1,210 @@
+2019-05-11 10:44:35 INFO  AbstractWebTest:32 - ====> TEST STARTED {testSearch (SearchTest)}
+2019-05-11 10:44:35 INFO  DriverWebTestFactory:16 - BrowserType (DriverWebTestFactory) : null
+2019-05-11 10:44:36 INFO  AbstractWebTest:44 - ====> TEST FAILED {testSearch (SearchTest)}
+2019-05-11 10:44:36 INFO  AbstractWebTest:50 - ====> TEST FINISHED {testSearch (SearchTest)}
+2019-05-11 10:45:14 INFO  AbstractWebTest:32 - ====> TEST STARTED {testSearch (SearchTest)}
+2019-05-11 10:45:14 INFO  DriverWebTestFactory:16 - BrowserType (DriverWebTestFactory) : chrome
+2019-05-11 10:45:15 INFO  AbstractWebTest:44 - ====> TEST FAILED {testSearch (SearchTest)}
+2019-05-11 10:45:15 INFO  AbstractWebTest:50 - ====> TEST FINISHED {testSearch (SearchTest)}
+2019-05-11 10:45:36 INFO  AbstractWebTest:32 - ====> TEST STARTED {testSearch (SearchTest)}
+2019-05-11 10:45:36 INFO  DriverWebTestFactory:16 - BrowserType (DriverWebTestFactory) : chrome
+2019-05-11 10:46:03 INFO  AbstractWebTest:44 - ====> TEST FAILED {testSearch (SearchTest)}
+2019-05-11 10:46:03 INFO  AbstractWebTest:50 - ====> TEST FINISHED {testSearch (SearchTest)}
+2019-05-11 10:46:12 INFO  AbstractWebTest:32 - ====> TEST STARTED {testSearch (SearchTest)}
+2019-05-11 10:46:12 INFO  DriverWebTestFactory:16 - BrowserType (DriverWebTestFactory) : chrome
+2019-05-11 10:46:51 INFO  AbstractWebTest:32 - ====> TEST STARTED {testSearch (SearchTest)}
+2019-05-11 10:46:51 INFO  DriverWebTestFactory:16 - BrowserType (DriverWebTestFactory) : chrome
+2019-05-11 10:46:56 INFO  ChromeDriverManagerWeb:38 - =================================================================
+2019-05-11 10:46:56 INFO  ChromeDriverManagerWeb:39 - =====> This Execute Session ID --> a4c07a2a923a0bfbc4eb19141cb5a572
+2019-05-11 10:46:56 INFO  VideoRecorder:74 - The senario was not recorded on video
+2019-05-11 10:46:56 INFO  VideoRecorder:87 - Video not already taken
+2019-05-11 10:46:58 INFO  AbstractWebTest:38 - ====> TEST PASSED {testSearch (SearchTest)}
+2019-05-11 10:46:58 INFO  AbstractWebTest:50 - ====> TEST FINISHED {testSearch (SearchTest)}
+2019-05-11 10:47:08 INFO  AbstractWebTest:32 - ====> TEST STARTED {testSearch (SearchTest)}
+2019-05-11 10:47:08 INFO  DriverWebTestFactory:16 - BrowserType (DriverWebTestFactory) : chrome
+2019-05-11 10:47:10 INFO  ChromeDriverManagerWeb:38 - =================================================================
+2019-05-11 10:47:10 INFO  ChromeDriverManagerWeb:39 - =====> This Execute Session ID --> e863b5df1353ba237932c11e9ccc6ba9
+2019-05-11 10:47:10 INFO  VideoRecorder:74 - The senario was not recorded on video
+2019-05-11 10:47:10 INFO  VideoRecorder:87 - Video not already taken
+2019-05-11 10:47:11 INFO  AbstractWebTest:38 - ====> TEST PASSED {testSearch (SearchTest)}
+2019-05-11 10:47:11 INFO  AbstractWebTest:50 - ====> TEST FINISHED {testSearch (SearchTest)}
+2019-05-11 10:51:49 INFO  AbstractWebTest:32 - ====> TEST STARTED {testSearch (SearchTest)}
+2019-05-11 10:51:49 INFO  DriverWebTestFactory:16 - BrowserType (DriverWebTestFactory) : chrome
+2019-05-11 10:51:51 INFO  ChromeDriverManagerWeb:38 - =================================================================
+2019-05-11 10:51:51 INFO  ChromeDriverManagerWeb:39 - =====> This Execute Session ID --> 94a7dec43a0a00da26fc62568dd64052
+2019-05-11 10:51:51 INFO  VideoRecorder:74 - The senario was not recorded on video
+2019-05-11 10:51:51 INFO  VideoRecorder:87 - Video not already taken
+2019-05-11 10:51:52 INFO  AbstractWebTest:38 - ====> TEST PASSED {testSearch (SearchTest)}
+2019-05-11 10:51:52 INFO  AbstractWebTest:50 - ====> TEST FINISHED {testSearch (SearchTest)}
+2019-05-11 10:52:08 INFO  AbstractWebTest:32 - ====> TEST STARTED {testSearch (SearchTest)}
+2019-05-11 10:52:08 INFO  DriverWebTestFactory:16 - BrowserType (DriverWebTestFactory) : chrome
+2019-05-11 10:52:10 INFO  ChromeDriverManagerWeb:38 - =================================================================
+2019-05-11 10:52:10 INFO  ChromeDriverManagerWeb:39 - =====> This Execute Session ID --> f5b2468b8cb06a754b10aea319754267
+2019-05-11 10:52:10 INFO  VideoRecorder:37 - Creating Directory : /Users/enes.aydin/Desktop/optiim-selenium/src/test/resources/test-scenario-video
+2019-05-11 10:52:11 INFO  AbstractWebTest:38 - ====> TEST PASSED {testSearch (SearchTest)}
+2019-05-11 10:52:11 INFO  AbstractWebTest:50 - ====> TEST FINISHED {testSearch (SearchTest)}
+2019-05-11 10:52:51 INFO  AbstractWebTest:32 - ====> TEST STARTED {testSearch (SearchTest)}
+2019-05-11 10:52:51 INFO  DriverWebTestFactory:16 - BrowserType (DriverWebTestFactory) : chrome
+2019-05-11 10:52:53 INFO  ChromeDriverManagerWeb:38 - =================================================================
+2019-05-11 10:52:53 INFO  ChromeDriverManagerWeb:39 - =====> This Execute Session ID --> 1093b4c48101842e457bf024d5d65fc8
+2019-05-11 10:52:53 INFO  VideoRecorder:37 - Creating Directory : /Users/enes.aydin/Desktop/optiim-selenium/target/test-scenario-video
+2019-05-11 10:52:54 INFO  AbstractWebTest:38 - ====> TEST PASSED {testSearch (SearchTest)}
+2019-05-11 10:52:54 INFO  AbstractWebTest:50 - ====> TEST FINISHED {testSearch (SearchTest)}
+2019-05-11 11:02:25 INFO  AbstractWebTest:33 - ====> TEST STARTED {testSearch (SearchTest)}
+2019-05-11 11:02:25 INFO  DriverWebTestFactory:17 - BrowserType (DriverWebTestFactory) : chrome
+2019-05-11 11:02:27 INFO  ChromeDriverManagerWeb:38 - =================================================================
+2019-05-11 11:02:27 INFO  ChromeDriverManagerWeb:39 - =====> This Execute Session ID --> bd9c07225e4d92d358eb4f037cc282e8
+2019-05-11 11:02:40 INFO  AbstractWebTest:33 - ====> TEST STARTED {testSearch (SearchTest)}
+2019-05-11 11:02:40 INFO  DriverWebTestFactory:17 - BrowserType (DriverWebTestFactory) : chrome
+2019-05-11 11:02:42 INFO  ChromeDriverManagerWeb:38 - =================================================================
+2019-05-11 11:02:42 INFO  ChromeDriverManagerWeb:39 - =====> This Execute Session ID --> 758abcef1a5c88ae20bb69d31e28b25b
+2019-05-11 11:06:36 INFO  AbstractWebTest:33 - ====> TEST STARTED {testSearch (SearchTest)}
+2019-05-11 11:06:36 INFO  DriverWebTestFactory:17 - BrowserType (DriverWebTestFactory) : chrome
+2019-05-11 11:06:38 INFO  ChromeDriverManagerWeb:38 - =================================================================
+2019-05-11 11:06:38 INFO  ChromeDriverManagerWeb:39 - =====> This Execute Session ID --> d01942687a7c9869a9ef387a77ee0c34
+2019-05-11 11:07:13 INFO  AbstractWebTest:45 - ====> TEST FAILED {testSearch (SearchTest)}
+2019-05-11 11:07:13 INFO  AbstractWebTest:51 - ====> TEST FINISHED {testSearch (SearchTest)}
+2019-05-11 11:07:55 INFO  AbstractWebTest:33 - ====> TEST STARTED {testSearch (SearchTest)}
+2019-05-11 11:07:55 INFO  DriverWebTestFactory:17 - BrowserType (DriverWebTestFactory) : chrome
+2019-05-11 11:07:57 INFO  ChromeDriverManagerWeb:38 - =================================================================
+2019-05-11 11:07:57 INFO  ChromeDriverManagerWeb:39 - =====> This Execute Session ID --> 5ab0ec1ccdf522f967a927bd67683060
+2019-05-11 11:08:32 INFO  AbstractWebTest:39 - ====> TEST PASSED {testSearch (SearchTest)}
+2019-05-11 11:08:32 INFO  AbstractWebTest:51 - ====> TEST FINISHED {testSearch (SearchTest)}
+2019-05-11 11:12:52 INFO  AbstractWebTest:33 - ====> TEST STARTED {testSearch (SearchTest)}
+2019-05-11 11:12:52 INFO  DriverWebTestFactory:17 - BrowserType (DriverWebTestFactory) : chrome
+2019-05-11 11:12:54 INFO  ChromeDriverManagerWeb:38 - =================================================================
+2019-05-11 11:12:54 INFO  ChromeDriverManagerWeb:39 - =====> This Execute Session ID --> 42da4828314701a0b2233eae946e2001
+2019-05-11 11:13:34 INFO  AbstractWebTest:39 - ====> TEST PASSED {testSearch (SearchTest)}
+2019-05-11 11:13:34 INFO  AbstractWebTest:51 - ====> TEST FINISHED {testSearch (SearchTest)}
+2019-05-11 11:15:55 INFO  AbstractWebTest:33 - ====> TEST STARTED {testSearch (SearchTest)}
+2019-05-11 11:15:55 INFO  DriverWebTestFactory:17 - BrowserType (DriverWebTestFactory) : chrome
+2019-05-11 11:15:57 INFO  ChromeDriverManagerWeb:38 - =================================================================
+2019-05-11 11:15:57 INFO  ChromeDriverManagerWeb:39 - =====> This Execute Session ID --> 1596aa0c9dff4b69621746c9eaccbc5a
+2019-05-11 11:17:18 INFO  AbstractWebTest:33 - ====> TEST STARTED {testSearch (SearchTest)}
+2019-05-11 11:17:18 INFO  DriverWebTestFactory:17 - BrowserType (DriverWebTestFactory) : chrome
+2019-05-11 11:17:20 INFO  ChromeDriverManagerWeb:38 - =================================================================
+2019-05-11 11:17:20 INFO  ChromeDriverManagerWeb:39 - =====> This Execute Session ID --> c29e34eccf5eea672bc69ceb483b5f07
+2019-05-11 11:18:00 INFO  AbstractWebTest:39 - ====> TEST PASSED {testSearch (SearchTest)}
+2019-05-11 11:18:00 INFO  AbstractWebTest:51 - ====> TEST FINISHED {testSearch (SearchTest)}
+2019-05-11 11:19:56 INFO  AbstractWebTest:33 - ====> TEST STARTED {testSearch (SearchTest)}
+2019-05-11 11:19:56 INFO  DriverWebTestFactory:17 - BrowserType (DriverWebTestFactory) : chrome
+2019-05-11 11:19:58 INFO  ChromeDriverManagerWeb:38 - =================================================================
+2019-05-11 11:19:58 INFO  ChromeDriverManagerWeb:39 - =====> This Execute Session ID --> cbf76e16093abb9cbe017b3fb4f254d2
+2019-05-11 11:20:06 INFO  AbstractWebTest:33 - ====> TEST STARTED {testSearch (SearchTest)}
+2019-05-11 11:20:06 INFO  DriverWebTestFactory:17 - BrowserType (DriverWebTestFactory) : chrome
+2019-05-11 11:20:08 INFO  ChromeDriverManagerWeb:38 - =================================================================
+2019-05-11 11:20:08 INFO  ChromeDriverManagerWeb:39 - =====> This Execute Session ID --> ae8c253f23339ab2b2df910b32442005
+2019-05-11 11:20:51 INFO  AbstractWebTest:39 - ====> TEST PASSED {testSearch (SearchTest)}
+2019-05-11 11:20:51 INFO  AbstractWebTest:51 - ====> TEST FINISHED {testSearch (SearchTest)}
+2019-05-11 11:27:24 INFO  AbstractWebTest:33 - ====> TEST STARTED {testSearch (SearchTest)}
+2019-05-11 11:27:24 INFO  DriverWebTestFactory:17 - BrowserType (DriverWebTestFactory) : chrome
+2019-05-11 11:27:26 INFO  ChromeDriverManagerWeb:38 - =================================================================
+2019-05-11 11:27:26 INFO  ChromeDriverManagerWeb:39 - =====> This Execute Session ID --> 31f1c83c2970e4dc48254ce39a5a99b9
+2019-05-11 11:28:18 INFO  SearchTest:53 - Product Price --> US $27.50
+2019-05-11 11:28:29 INFO  AbstractWebTest:39 - ====> TEST PASSED {testSearch (SearchTest)}
+2019-05-11 11:28:29 INFO  AbstractWebTest:51 - ====> TEST FINISHED {testSearch (SearchTest)}
+2019-05-11 11:36:31 INFO  AbstractWebTest:33 - ====> TEST STARTED {testSearch (SearchTest)}
+2019-05-11 11:36:31 INFO  DriverWebTestFactory:17 - BrowserType (DriverWebTestFactory) : chrome
+2019-05-11 11:36:34 INFO  ChromeDriverManagerWeb:38 - =================================================================
+2019-05-11 11:36:34 INFO  ChromeDriverManagerWeb:39 - =====> This Execute Session ID --> 4b78dda1b0447ed24b8b2eac439c16dd
+2019-05-11 11:37:14 INFO  SearchTest:53 - Product Price --> US $27.50
+2019-05-11 11:38:00 INFO  AbstractWebTest:33 - ====> TEST STARTED {testSearch (SearchTest)}
+2019-05-11 11:38:00 INFO  DriverWebTestFactory:17 - BrowserType (DriverWebTestFactory) : chrome
+2019-05-11 11:38:01 INFO  ChromeDriverManagerWeb:38 - =================================================================
+2019-05-11 11:38:01 INFO  ChromeDriverManagerWeb:39 - =====> This Execute Session ID --> 65f7bad3d70c0140bd5f5d8bc7131a58
+2019-05-11 11:38:42 INFO  AbstractWebTest:45 - ====> TEST FAILED {testSearch (SearchTest)}
+2019-05-11 11:38:42 INFO  AbstractWebTest:51 - ====> TEST FINISHED {testSearch (SearchTest)}
+2019-05-11 11:38:47 INFO  AbstractWebTest:33 - ====> TEST STARTED {testSearch (SearchTest)}
+2019-05-11 11:38:47 INFO  DriverWebTestFactory:17 - BrowserType (DriverWebTestFactory) : chrome
+2019-05-11 11:38:49 INFO  ChromeDriverManagerWeb:38 - =================================================================
+2019-05-11 11:38:49 INFO  ChromeDriverManagerWeb:39 - =====> This Execute Session ID --> 4f2daa88df9ccea18dda628599eaf342
+2019-05-11 11:39:29 INFO  SearchTest:53 - Product Price --> US $27.50
+2019-05-11 11:39:43 INFO  AbstractWebTest:39 - ====> TEST PASSED {testSearch (SearchTest)}
+2019-05-11 11:39:43 INFO  AbstractWebTest:51 - ====> TEST FINISHED {testSearch (SearchTest)}
+2019-05-11 11:42:16 INFO  AbstractWebTest:33 - ====> TEST STARTED {testSearch (SearchTest)}
+2019-05-11 11:42:16 INFO  DriverWebTestFactory:17 - BrowserType (DriverWebTestFactory) : chrome
+2019-05-11 11:42:27 INFO  ChromeDriverManagerWeb:38 - =================================================================
+2019-05-11 11:42:27 INFO  ChromeDriverManagerWeb:39 - =====> This Execute Session ID --> fb3c1415480b53113c93ee133bf48c8f
+2019-05-11 11:42:27 INFO  VideoRecorder:74 - The senario was not recorded on video
+2019-05-11 11:43:19 INFO  SearchTest:53 - Product Price --> US $27.50
+2019-05-11 11:43:30 INFO  VideoRecorder:87 - Video not already taken
+2019-05-11 11:43:31 INFO  AbstractWebTest:39 - ====> TEST PASSED {testSearch (SearchTest)}
+2019-05-11 11:43:31 INFO  AbstractWebTest:51 - ====> TEST FINISHED {testSearch (SearchTest)}
+2019-05-11 11:45:07 INFO  AbstractWebTest:33 - ====> TEST STARTED {testBookSearch (SearchTest)}
+2019-05-11 11:45:07 INFO  DriverWebTestFactory:17 - BrowserType (DriverWebTestFactory) : chrome
+2019-05-11 11:45:09 INFO  ChromeDriverManagerWeb:38 - =================================================================
+2019-05-11 11:45:09 INFO  ChromeDriverManagerWeb:39 - =====> This Execute Session ID --> 75810f3399daa66b082124d800d30116
+2019-05-11 11:45:09 INFO  VideoRecorder:37 - Creating Directory : /Users/enes.aydin/Desktop/optiim-selenium/target/test-scenario-video
+2019-05-11 11:45:51 INFO  SearchTest:53 - Product Price --> US $27.50
+2019-05-11 11:46:03 INFO  AbstractWebTest:39 - ====> TEST PASSED {testBookSearch (SearchTest)}
+2019-05-11 11:46:03 INFO  AbstractWebTest:51 - ====> TEST FINISHED {testBookSearch (SearchTest)}
+2019-05-11 11:48:01 INFO  AbstractWebTest:33 - ====> TEST STARTED {testBookSearch (SearchTest)}
+2019-05-11 11:48:01 INFO  DriverWebTestFactory:17 - BrowserType (DriverWebTestFactory) : chrome
+2019-05-11 11:48:04 INFO  ChromeDriverManagerWeb:38 - =================================================================
+2019-05-11 11:48:04 INFO  ChromeDriverManagerWeb:39 - =====> This Execute Session ID --> b2c4027fc6a7d659d451972f99ad2dc9
+2019-05-11 11:48:45 INFO  SearchTest:53 - Product Price --> US $27.50
+2019-05-11 11:48:58 INFO  AbstractWebTest:39 - ====> TEST PASSED {testBookSearch (SearchTest)}
+2019-05-11 11:48:58 INFO  AbstractWebTest:51 - ====> TEST FINISHED {testBookSearch (SearchTest)}
+2019-05-11 11:58:03 INFO  AbstractWebTest:33 - ====> TEST STARTED {testHomePageImageUpload (HomePageNetworkTest)}
+2019-05-11 11:58:03 INFO  DriverWebTestFactory:17 - BrowserType (DriverWebTestFactory) : chrome
+2019-05-11 11:58:27 INFO  AbstractWebTest:33 - ====> TEST STARTED {testHomePageImageUpload (HomePageNetworkTest)}
+2019-05-11 11:58:27 INFO  DriverWebTestFactory:17 - BrowserType (DriverWebTestFactory) : chrome
+2019-05-11 11:58:28 INFO  DefaultHttpProxyServer:459 - Starting proxy at address: 0.0.0.0/0.0.0.0:0
+2019-05-11 11:58:28 INFO  DefaultHttpProxyServer:488 - Proxy listening with TCP transport
+2019-05-11 11:58:28 INFO  DefaultHttpProxyServer:523 - Proxy started at address: /0:0:0:0:0:0:0:0:60215
+2019-05-11 11:58:29 INFO  ChromeDriverManagerWeb:56 - =================================================================
+2019-05-11 11:58:29 INFO  ChromeDriverManagerWeb:57 - This Execute Browser Host --> enesaydins-MacBook-Pro.local
+2019-05-11 11:58:29 INFO  ChromeDriverManagerWeb:58 - This Execute Browser Port --> 60215
+2019-05-11 11:58:29 INFO  ChromeDriverManagerWeb:59 - =================================================================
+2019-05-11 11:58:31 INFO  ChromeDriverManagerWeb:38 - =================================================================
+2019-05-11 11:58:31 INFO  ChromeDriverManagerWeb:39 - =====> This Execute Session ID --> 6fd4870136c1f4b106db19d512ee539f
+2019-05-11 11:58:31 INFO  VideoRecorder:74 - The senario was not recorded on video
+2019-05-11 11:58:45 INFO  HomePageNetworkTest:38 - Check Response This Url -> https://ir.ebaystatic.com/rs/v/fxxj3ttftm5ltcqnto1o4baovyl.png
+2019-05-11 11:58:45 INFO  HomePageNetworkTest:38 - Check Response This Url -> https://ir.ebaystatic.com/pictures/aw/pics/cmp/ds3/sprds3_20.png
+2019-05-11 11:58:45 INFO  HomePageNetworkTest:38 - Check Response This Url -> https://ir.ebaystatic.com/rs/v/f5uxsy10bmz05dtrtrqybl5qquv.png
+2019-05-11 11:58:45 INFO  HomePageNetworkTest:38 - Check Response This Url -> https://secureir.ebaystatic.com/pictures/aw/pics/globalheader/btt.png
+2019-05-11 11:58:45 INFO  VideoRecorder:87 - Video not already taken
+2019-05-11 11:58:45 INFO  DefaultHttpProxyServer:398 - Shutting down proxy server gracefully
+2019-05-11 11:58:45 INFO  DefaultHttpProxyServer:433 - Closing all channels (graceful)
+2019-05-11 11:58:45 WARN  BrowserMobHttpFilterChain:57 - Aborting request to gha.ebay.com:443 because proxy is stopped
+2019-05-11 11:58:45 INFO  ProxyToServerConnection:791 - (CONNECTING) [id: 0x2b0904e1]: Connection to upstream server failed
+java.nio.channels.ClosedChannelException
+2019-05-11 11:58:45 INFO  ServerGroup:212 - Shutting down server group event loops (graceful)
+2019-05-11 11:58:47 INFO  DefaultHttpProxyServer:414 - Done shutting down proxy server
+2019-05-11 11:58:48 INFO  AbstractWebTest:39 - ====> TEST PASSED {testHomePageImageUpload (HomePageNetworkTest)}
+2019-05-11 11:58:48 INFO  AbstractWebTest:51 - ====> TEST FINISHED {testHomePageImageUpload (HomePageNetworkTest)}
+2019-05-11 12:01:47 INFO  AbstractWebTest:33 - ====> TEST STARTED {testHomePageImageUpload (HomePageNetworkTest)}
+2019-05-11 12:01:47 INFO  AbstractWebTest:33 - ====> TEST STARTED {testBookSearch (SearchTest)}
+2019-05-11 12:01:47 INFO  DriverWebTestFactory:17 - BrowserType (DriverWebTestFactory) : chrome
+2019-05-11 12:01:47 INFO  DriverWebTestFactory:17 - BrowserType (DriverWebTestFactory) : chrome
+2019-05-11 12:01:47 INFO  DefaultHttpProxyServer:459 - Starting proxy at address: 0.0.0.0/0.0.0.0:0
+2019-05-11 12:01:47 INFO  DefaultHttpProxyServer:488 - Proxy listening with TCP transport
+2019-05-11 12:01:47 INFO  DefaultHttpProxyServer:523 - Proxy started at address: /0:0:0:0:0:0:0:0:60381
+2019-05-11 12:01:48 INFO  ChromeDriverManagerWeb:56 - =================================================================
+2019-05-11 12:01:48 INFO  ChromeDriverManagerWeb:57 - This Execute Browser Host --> enesaydins-MacBook-Pro.local
+2019-05-11 12:01:48 INFO  ChromeDriverManagerWeb:58 - This Execute Browser Port --> 60381
+2019-05-11 12:01:48 INFO  ChromeDriverManagerWeb:59 - =================================================================
+2019-05-11 12:02:11 INFO  ChromeDriverManagerWeb:38 - =================================================================
+2019-05-11 12:02:11 INFO  ChromeDriverManagerWeb:39 - =====> This Execute Session ID --> 8d5f787a64ab49829bbf8014d56bb374
+2019-05-11 12:02:11 INFO  VideoRecorder:74 - The senario was not recorded on video
+2019-05-11 12:02:11 INFO  ChromeDriverManagerWeb:38 - =================================================================
+2019-05-11 12:02:11 INFO  ChromeDriverManagerWeb:39 - =====> This Execute Session ID --> 6cf147a7b03286e778f9bc8611b96a5f
+2019-05-11 12:02:11 INFO  VideoRecorder:74 - The senario was not recorded on video
+2019-05-11 12:02:25 INFO  HomePageNetworkTest:39 - Check Response This Url -> https://ir.ebaystatic.com/rs/v/fxxj3ttftm5ltcqnto1o4baovyl.png
+2019-05-11 12:02:25 INFO  HomePageNetworkTest:39 - Check Response This Url -> https://ir.ebaystatic.com/pictures/aw/pics/cmp/ds3/sprds3_20.png
+2019-05-11 12:02:25 INFO  HomePageNetworkTest:39 - Check Response This Url -> https://ir.ebaystatic.com/rs/v/f5uxsy10bmz05dtrtrqybl5qquv.png
+2019-05-11 12:02:25 INFO  VideoRecorder:87 - Video not already taken
+2019-05-11 12:02:25 INFO  DefaultHttpProxyServer:398 - Shutting down proxy server gracefully
+2019-05-11 12:02:25 INFO  DefaultHttpProxyServer:433 - Closing all channels (graceful)
+2019-05-11 12:02:25 INFO  ProxyToServerConnection:791 - (CONNECTING) [id: 0x27425eaf]: Connection to upstream server failed
+java.nio.channels.ClosedChannelException
+2019-05-11 12:02:27 INFO  ServerGroup:212 - Shutting down server group event loops (graceful)
+2019-05-11 12:02:27 INFO  ProxyToServerConnection:791 - (CONNECTING) [id: 0xdcc3133b]: Connection to upstream server failed
+java.nio.channels.ClosedChannelException
+2019-05-11 12:02:29 INFO  DefaultHttpProxyServer:414 - Done shutting down proxy server
+2019-05-11 12:02:30 INFO  AbstractWebTest:39 - ====> TEST PASSED {testHomePageImageUpload (HomePageNetworkTest)}
+2019-05-11 12:02:30 INFO  AbstractWebTest:51 - ====> TEST FINISHED {testHomePageImageUpload (HomePageNetworkTest)}
+2019-05-11 12:02:54 INFO  SearchTest:53 - Product Price --> US $27.50
+2019-05-11 12:03:02 INFO  VideoRecorder:87 - Video not already taken
+2019-05-11 12:03:03 INFO  AbstractWebTest:39 - ====> TEST PASSED {testBookSearch (SearchTest)}
+2019-05-11 12:03:03 INFO  AbstractWebTest:51 - ====> TEST FINISHED {testBookSearch (SearchTest)}
