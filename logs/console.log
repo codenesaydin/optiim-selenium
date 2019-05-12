@@ -208,3 +208,57 @@ java.nio.channels.ClosedChannelException
 2019-05-11 12:03:02 INFO  VideoRecorder:87 - Video not already taken
 2019-05-11 12:03:03 INFO  AbstractWebTest:39 - ====> TEST PASSED {testBookSearch (SearchTest)}
 2019-05-11 12:03:03 INFO  AbstractWebTest:51 - ====> TEST FINISHED {testBookSearch (SearchTest)}
+2019-05-12 16:58:27 INFO  DefaultTestContextBootstrapper:248 - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2019-05-12 16:58:27 INFO  DefaultTestContextBootstrapper:177 - Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@307f6b8c, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@7a187f14, org.springframework.test.context.support.DirtiesContextTestExecutionListener@6f195bc3]
+2019-05-12 16:58:27 INFO  GenericApplicationContext:590 - Refreshing org.springframework.context.support.GenericApplicationContext@289d1c02: startup date [Sun May 12 16:58:27 EET 2019]; root of context hierarchy
+2019-05-12 16:58:27 INFO  AbstractWebTest:33 - ====> TEST STARTED {testBookSearch (SearchTest)}
+2019-05-12 16:58:27 INFO  DriverWebTestFactory:17 - BrowserType (DriverWebTestFactory) : null
+2019-05-12 16:58:28 INFO  AbstractWebTest:45 - ====> TEST FAILED {testBookSearch (SearchTest)}
+2019-05-12 16:58:28 INFO  AbstractWebTest:51 - ====> TEST FINISHED {testBookSearch (SearchTest)}
+2019-05-12 16:58:28 INFO  GenericApplicationContext:993 - Closing org.springframework.context.support.GenericApplicationContext@289d1c02: startup date [Sun May 12 16:58:27 EET 2019]; root of context hierarchy
+2019-05-12 16:59:00 INFO  DefaultTestContextBootstrapper:248 - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2019-05-12 16:59:00 INFO  DefaultTestContextBootstrapper:177 - Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@307f6b8c, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@7a187f14, org.springframework.test.context.support.DirtiesContextTestExecutionListener@6f195bc3]
+2019-05-12 16:59:00 INFO  GenericApplicationContext:590 - Refreshing org.springframework.context.support.GenericApplicationContext@289d1c02: startup date [Sun May 12 16:59:00 EET 2019]; root of context hierarchy
+2019-05-12 16:59:01 INFO  AbstractWebTest:33 - ====> TEST STARTED {testBookSearch (SearchTest)}
+2019-05-12 16:59:01 INFO  DriverWebTestFactory:17 - BrowserType (DriverWebTestFactory) : chrome
+2019-05-12 16:59:11 INFO  ChromeDriverManagerWeb:38 - =================================================================
+2019-05-12 16:59:11 INFO  ChromeDriverManagerWeb:39 - =====> This Execute Session ID --> ba7d3d93173e04963b37be2f2d274f14
+2019-05-12 16:59:11 INFO  VideoRecorder:37 - Creating Directory : /Users/enes.aydin/Desktop/optiim-selenium/target/test-scenario-video
+2019-05-12 16:59:12 INFO  TestUserAccountManager:46 - Test User -----> TestUser{username='enes-99', password='123456aB'} 
+2019-05-12 16:59:45 INFO  GenericApplicationContext:993 - Closing org.springframework.context.support.GenericApplicationContext@289d1c02: startup date [Sun May 12 16:59:00 EET 2019]; root of context hierarchy
+2019-05-12 16:59:49 INFO  DefaultTestContextBootstrapper:248 - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2019-05-12 16:59:49 INFO  DefaultTestContextBootstrapper:177 - Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@307f6b8c, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@7a187f14, org.springframework.test.context.support.DirtiesContextTestExecutionListener@6f195bc3]
+2019-05-12 16:59:49 INFO  GenericApplicationContext:590 - Refreshing org.springframework.context.support.GenericApplicationContext@289d1c02: startup date [Sun May 12 16:59:49 EET 2019]; root of context hierarchy
+2019-05-12 16:59:50 INFO  AbstractWebTest:33 - ====> TEST STARTED {testBookSearch (SearchTest)}
+2019-05-12 16:59:50 INFO  DriverWebTestFactory:17 - BrowserType (DriverWebTestFactory) : chrome
+2019-05-12 16:59:55 INFO  ChromeDriverManagerWeb:38 - =================================================================
+2019-05-12 16:59:55 INFO  ChromeDriverManagerWeb:39 - =====> This Execute Session ID --> f8e58fb46aeefe1f366296072ca7d477
+2019-05-12 16:59:55 INFO  TestUserAccountManager:46 - Test User -----> enes-99 
+2019-05-12 17:00:40 INFO  SearchTest:54 - Product Price --> US $27.50
+2019-05-12 17:00:52 INFO  AbstractWebTest:39 - ====> TEST PASSED {testBookSearch (SearchTest)}
+2019-05-12 17:00:52 INFO  AbstractWebTest:51 - ====> TEST FINISHED {testBookSearch (SearchTest)}
+2019-05-12 17:00:52 INFO  GenericApplicationContext:993 - Closing org.springframework.context.support.GenericApplicationContext@289d1c02: startup date [Sun May 12 16:59:49 EET 2019]; root of context hierarchy
+2019-05-12 17:02:07 INFO  DefaultTestContextBootstrapper:248 - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2019-05-12 17:02:07 INFO  DefaultTestContextBootstrapper:177 - Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@51e2adc7, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@1a8a8f7c, org.springframework.test.context.support.DirtiesContextTestExecutionListener@2353b3e6]
+2019-05-12 17:02:07 INFO  GenericApplicationContext:590 - Refreshing org.springframework.context.support.GenericApplicationContext@3891771e: startup date [Sun May 12 17:02:07 EET 2019]; root of context hierarchy
+2019-05-12 17:02:08 INFO  AbstractWebTest:33 - ====> TEST STARTED {testHomePageImageUpload (HomePageNetworkTest)}
+2019-05-12 17:02:08 INFO  DriverWebTestFactory:17 - BrowserType (DriverWebTestFactory) : chrome
+2019-05-12 17:02:09 INFO  DefaultHttpProxyServer:459 - Starting proxy at address: 0.0.0.0/0.0.0.0:0
+2019-05-12 17:02:09 INFO  DefaultHttpProxyServer:488 - Proxy listening with TCP transport
+2019-05-12 17:02:09 INFO  DefaultHttpProxyServer:523 - Proxy started at address: /0:0:0:0:0:0:0:0:54044
+2019-05-12 17:02:09 INFO  ChromeDriverManagerWeb:56 - =================================================================
+2019-05-12 17:02:09 INFO  ChromeDriverManagerWeb:57 - This Execute Browser Host --> enesaydins-MacBook-Pro.local
+2019-05-12 17:02:09 INFO  ChromeDriverManagerWeb:58 - This Execute Browser Port --> 54044
+2019-05-12 17:02:09 INFO  ChromeDriverManagerWeb:59 - =================================================================
+2019-05-12 17:02:15 INFO  ChromeDriverManagerWeb:38 - =================================================================
+2019-05-12 17:02:15 INFO  ChromeDriverManagerWeb:39 - =====> This Execute Session ID --> be5bd13ac0d7d2ccbf43ad45a82f61d9
+2019-05-12 17:02:30 INFO  HomePageNetworkTest:39 - Check Response This Url -> https://ir.ebaystatic.com/rs/v/fxxj3ttftm5ltcqnto1o4baovyl.png
+2019-05-12 17:02:30 INFO  HomePageNetworkTest:39 - Check Response This Url -> https://ir.ebaystatic.com/pictures/aw/pics/cmp/ds3/sprds3_20.png
+2019-05-12 17:02:30 INFO  HomePageNetworkTest:39 - Check Response This Url -> https://ir.ebaystatic.com/rs/v/f5uxsy10bmz05dtrtrqybl5qquv.png
+2019-05-12 17:02:30 INFO  DefaultHttpProxyServer:398 - Shutting down proxy server gracefully
+2019-05-12 17:02:30 INFO  DefaultHttpProxyServer:433 - Closing all channels (graceful)
+2019-05-12 17:02:30 INFO  ServerGroup:212 - Shutting down server group event loops (graceful)
+2019-05-12 17:02:32 INFO  DefaultHttpProxyServer:414 - Done shutting down proxy server
+2019-05-12 17:02:33 INFO  AbstractWebTest:39 - ====> TEST PASSED {testHomePageImageUpload (HomePageNetworkTest)}
+2019-05-12 17:02:33 INFO  AbstractWebTest:51 - ====> TEST FINISHED {testHomePageImageUpload (HomePageNetworkTest)}
+2019-05-12 17:02:33 INFO  GenericApplicationContext:993 - Closing org.springframework.context.support.GenericApplicationContext@3891771e: startup date [Sun May 12 17:02:07 EET 2019]; root of context hierarchy
